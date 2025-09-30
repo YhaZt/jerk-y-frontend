@@ -34,8 +34,7 @@ Start the development server:
 npm run dev
 
 
-Your app will be running at http://localhost:5173
- 🚀
+Your app will be running at http://localhost:5173🚀
 
 🏗️ Build & Preview
 
