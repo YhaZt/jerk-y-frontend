@@ -12,8 +12,8 @@ const Dashboard = () => {
     <div className="app-shell">
       <header className="app-header">
         <div className="header-copy">
-          <p className="facility-badge">Jerky Lab • Batch A-42</p>
-          <h1>Jerky Production Environment</h1>
+          <p className="facility-badge">Rabbit Jerky Lab • Batch A-42</p>
+          <h1>Rabbit Jerky Production Environment</h1>
           <p className="header-subtitle">
             Live climate telemetry from the drying chamber ensures food safety and consistent texture.
           </p>
